@@ -1,0 +1,33 @@
+,ids,labels,parents,values
+0,WDI,WDI,,2600
+1,World View-Climate Change,Climate Change,World View,77
+2,World View-Education,Education,World View,163
+3,World View-Science & Technology,Science & Technology,World View,10
+4,World View,World View,WDI,250
+5,People-Agriculture & Rural Development,Agriculture & Rural Development,People,42
+6,People-Gender,Gender,People,157
+7,People-Health,Health,People,256
+8,People-Social Development,Social Development,People,34
+9,People-Social Protection & Labor,Social Protection & Labor,People,154
+10,People,People,WDI,643
+11,Environment-Climate Change,Climate Change,Environment,77
+12,Environment-Energy & Mining,Energy & Mining,Environment,51
+13,Environment-Environment,Environment,Environment,141
+14,Environment-Urban Development,Urban Development,Environment,19
+15,Environment,Environment,WDI,288
+16,Economy-Economy & Growth,Economy & Growth,Economy,255
+17,Economy-Financial Sector,Financial Sector,Economy,77
+18,Economy-Infrastructure,Infrastructure,Economy,47
+19,Economy-Poverty,Poverty,Economy,30
+20,Economy-Private Sector,Private Sector,Economy,171
+21,Economy-Trade,Trade,Economy,150
+22,Economy,Economy,WDI,730
+23,States & Markets-Aid Effectiveness,Aid Effectiveness,States & Markets,74
+24,States & Markets-External Debt,External Debt,States & Markets,62
+25,States & Markets-Public Sector,Public Sector,States & Markets,108
+26,States & Markets-Private Sector,Private Sector,States & Markets,171
+27,States & Markets,States & Markets,WDI,415
+28,Global Linkages-Climate Change,Climate Change,Global Linkages,77
+29,Global Linkages-Infrastructure,Infrastructure,Global Linkages,47
+30,Global Linkages-Trade,Trade,Global Linkages,150
+31,Global Linkages,Global Linkages,WDI,274
