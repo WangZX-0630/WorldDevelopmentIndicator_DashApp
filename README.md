@@ -6,7 +6,7 @@ An app implemented data visualization of World Development Indicator Dataset fro
 
 ![wdidashapp-screencast1](pics/pic1.png)
 
-![wdidashapp-screencast2](pics/pic1.png)
+![wdidashapp-screencast2](pics/pic2.png)
 
 ## Running the app locally
 
